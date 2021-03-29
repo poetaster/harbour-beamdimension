@@ -13,4 +13,3 @@ Tobias wrote Beamcalc and poetaster is developing and maintaining it in future.
 
 2021 - Mark Washeim <blueprint@poetaster.de>
 
-
