@@ -18,6 +18,7 @@ SOURCES += src/harbour-beamdimension.cpp
 
 DISTFILES += qml/harbour-beamdimension.qml \
     qml/cover/CoverPage.qml \
+    qml/pages/About.qml \
     qml/pages/FirstPage.qml \
     qml/pages/SettingsPage.qml \
     rpm/harbour-beamdimension.changes.in \

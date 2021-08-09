@@ -956,6 +956,33 @@
     </message>
 </context>
 <context>
+    <name>About</name>
+    <message>
+        <source>An Beamdimension Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copyright © 2020 Tobias Planitzer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> © 2021 Mark Washeim</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beamdimension is licensed under the terms</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>of the GNU General Public License v3.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Beamdimension</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CoverPage</name>
     <message>
         <source>Beam</source>
@@ -1018,6 +1045,10 @@
     </message>
     <message>
         <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
