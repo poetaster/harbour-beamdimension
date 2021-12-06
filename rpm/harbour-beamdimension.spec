@@ -14,8 +14,8 @@ Name:       harbour-beamdimension
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    BeamDimension
 Version:    0.3
-Release:    1
-Group:      Qt/Qt
+Release:    2
+Group:      Applications/Engineering
 License:    GPLv3
 URL:        https://github.com/poetaster/harbour-beamdimension
 Source0:    %{name}-%{version}.tar.bz2
