@@ -19,7 +19,6 @@ Group:      Applications/Engineering
 License:    GPLv3
 URL:        https://github.com/poetaster/harbour-beamdimension
 Source0:    %{name}-%{version}.tar.bz2
-Source100:  harbour-beamdimension.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
 BuildRequires:  pkgconfig(sailfishapp) >= 1.0.2
 BuildRequires:  pkgconfig(Qt5Core)
