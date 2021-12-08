@@ -32,7 +32,6 @@ An app for obtaining the dimensions of beam materials under loads
 
 %if "%{?vendor}" == "chum"
 Name: BeamDimension
-Package: harbour-beamdimension
 Category: Applications/Engineering
 Repo: https://github.com/poetaster/harbour-beamdimension
 Icon: https://raw.githubusercontent.com/poetaster/harbour-beamdimension/master/icons/172x172/harbour-beamdimension.png
