@@ -12,9 +12,7 @@
 # The name of your application
 TARGET = harbour-beamdimension
 
-CONFIG += sailfishapp
-
-SOURCES += src/harbour-beamdimension.cpp
+CONFIG += sailfishapp_qml
 
 DISTFILES += qml/harbour-beamdimension.qml \
     qml/cover/CoverPage.qml \
@@ -24,7 +22,6 @@ DISTFILES += qml/harbour-beamdimension.qml \
     rpm/harbour-beamdimension.changes.in \
     rpm/harbour-beamdimension.changes.run.in \
     rpm/harbour-beamdimension.spec \
-    rpm/harbour-beamdimension.yaml \
     translations/*.ts \
     harbour-beamdimension.desktop \
     qml/pages/1_SingleSpanBeam.qml \
