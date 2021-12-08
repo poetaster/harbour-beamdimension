@@ -12,7 +12,9 @@
 # The name of your application
 TARGET = harbour-beamdimension
 
-CONFIG += sailfishapp_qml
+CONFIG += sailfishapp
+
+SOURCES += src/harbour-beamdimension.cpp
 
 DISTFILES += qml/harbour-beamdimension.qml \
     qml/cover/CoverPage.qml \
