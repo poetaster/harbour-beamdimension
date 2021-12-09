@@ -30,18 +30,26 @@ BuildRequires:  desktop-file-utils
 An app for obtaining the dimensions of beam materials under loads
 
 %if "%{?vendor}" == "chum"
-Packagename: BeamDimension
-Category: Applications/Engineering
-Repo: https://github.com/poetaster/harbour-beamdimension
+PackageName: Beam Dimension
+Type: desktop-application
+Categories:
+ - Engineering
+ - Science
+DeveloperName: Mark Washeim (blueprint@poetaster.de)
+Custom:
+ - RepoType: github
+ - Repo: https://github.com/poetaster/harbour-beamdimension
 Icon: https://raw.githubusercontent.com/poetaster/harbour-beamdimension/master/icons/172x172/harbour-beamdimension.png
 Screenshots:
-- https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-1.png
-- https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-2.png
-- https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-3.png
-- https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-4.png
-Forum: https://github.com/poetaster/harbour-beamdimension/discussions
-Issues: https://github.com/poetaster/harbour-beamdimension/issues
-Donation: https://www.paypal.me/poetasterFOSS
+ - https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-1.png
+ - https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-2.png
+ - https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-3.png
+ - https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-4.png
+Url:
+ - Homepage: https://github.com/poetaster/harbour-beamdimension
+ - Help: https://github.com/poetaster/harbour-beamdimension/discussions
+ - Bugtracker: https://github.com/poetaster/harbour-beamdimension/issues
+ - Donation: https://www.paypal.me/poetasterFOSS
 %endif
 
 %prep
