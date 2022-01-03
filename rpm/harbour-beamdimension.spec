@@ -13,8 +13,8 @@ Name:       harbour-beamdimension
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    BeamDimension
-Version:    0.4
-Release:    3
+Version:    0.5
+Release:    1
 Group:      Applications/Engineering
 License:    GPLv3
 URL:        https://github.com/poetaster/harbour-beamdimension
@@ -33,11 +33,11 @@ An app for obtaining the dimensions of beam materials under loads
 PackageName: Beam Dimension
 Type: desktop-application
 Categories:
+ - Utility
  - Engineering
  - Science
 DeveloperName: Mark Washeim (blueprint@poetaster.de)
 Custom:
- - RepoType: github
  - Repo: https://github.com/poetaster/harbour-beamdimension
 Icon: https://raw.githubusercontent.com/poetaster/harbour-beamdimension/master/icons/172x172/harbour-beamdimension.png
 Screenshots:
