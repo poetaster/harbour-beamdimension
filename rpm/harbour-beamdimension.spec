@@ -46,10 +46,10 @@ Screenshots:
  - https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-3.png
  - https://raw.githubusercontent.com/poetaster/harbour-beamdimension/main/screenshot-4.png
 Url:
- - Homepage: https://github.com/poetaster/harbour-beamdimension
- - Help: https://github.com/poetaster/harbour-beamdimension/discussions
- - Bugtracker: https://github.com/poetaster/harbour-beamdimension/issues
- - Donation: https://www.paypal.me/poetasterFOSS
+  Homepage: https://github.com/poetaster/harbour-beamdimension
+  Help: https://github.com/poetaster/harbour-beamdimension/discussions
+  Bugtracker: https://github.com/poetaster/harbour-beamdimension/issues
+  Donation: https://www.paypal.me/poetasterFOSS
 %endif
 
 %prep
