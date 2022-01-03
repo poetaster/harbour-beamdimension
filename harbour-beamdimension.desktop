@@ -9,4 +9,4 @@ Name[de]=BeamCalc
 [X-Sailjail]
 OrganizationName=de.poetaster
 ApplicationName=harbour-beamdimension
-Permissions=UserDirs;
+#Permissions=UserDirs;
