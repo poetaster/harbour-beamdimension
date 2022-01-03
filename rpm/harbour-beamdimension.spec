@@ -36,7 +36,7 @@ Categories:
  - Utility
  - Engineering
  - Science
-DeveloperName: Mark Washeim (blueprint@poetaster.de)
+DeveloperName: Mark Washeim
 Custom:
  - Repo: https://github.com/poetaster/harbour-beamdimension
 Icon: https://raw.githubusercontent.com/poetaster/harbour-beamdimension/master/icons/172x172/harbour-beamdimension.png
