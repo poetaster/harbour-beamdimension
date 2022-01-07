@@ -959,27 +959,27 @@
     <name>About</name>
     <message>
         <source>An Beamdimension Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett verktyg för balkdimensionering</translation>
     </message>
     <message>
         <source>Copyright © 2020 Tobias Planitzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright © 2020 Tobias Planitzer</translation>
     </message>
     <message>
         <source> © 2021 Mark Washeim</source>
-        <translation type="unfinished"></translation>
+        <translation> © 2021 Mark Washeim</translation>
     </message>
     <message>
         <source>Beamdimension is licensed under the terms</source>
-        <translation type="unfinished"></translation>
+        <translation>Beamdimension är licensierad under villkoren</translation>
     </message>
     <message>
         <source>of the GNU General Public License v3.</source>
-        <translation type="unfinished"></translation>
+        <translation>för GNU General Public License v3.</translation>
     </message>
     <message>
         <source>About Beamdimension</source>
-        <translation type="unfinished"></translation>
+        <translation>Om Beamdimension</translation>
     </message>
 </context>
 <context>
@@ -1049,7 +1049,7 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Om</translation>
     </message>
 </context>
 <context>
