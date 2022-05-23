@@ -13,7 +13,7 @@ Name:       harbour-beamdimension
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    BeamDimension
-Version:    0.5.1
+Version:    0.5.2
 Release:    1
 Group:      Applications/Engineering
 License:    GPLv3
@@ -25,6 +25,7 @@ BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
 BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
+BuildRequires:  qt5-qttools-linguist
 
 %description
 An app for obtaining the dimensions of beam materials under loads
